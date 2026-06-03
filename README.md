@@ -27,7 +27,6 @@ class LakshmiPoorani:
 
     def highlights(self):
         return {
-            "Published"  : "IJEDR Vol.14 | Fraud Detection System | IF 9.37",
             "Internship" : "AI Intern @ Navitas Life Sciences — SIEM + anomaly detection",
             "Hackathon"  : "Smart India Hackathon Team Lead",
             "Wins"       : "4× First Prize — State & National level tech events"
