@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lakshmi%20Poorani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20ML%20Developer%20%7C%20The%20Student%20Who%20Ships&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.E+CSE+%2B+BS+Data+Science+%40+IIT+Madras;ML+%7C+Full-Stack+%7C+Security+Systems;Published+Researcher+%7C+IJEDR+2026;Smart+India+Hackathon+Team+Lead;Building+end-to-end+AI+systems+that+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.E+CSE+%2B+BS+Data+Science+%40+IIT+Madras;ML+%7C+Full-Stack+%7C;Smart+India+Hackathon+Team+Lead;Building+end-to-end+AI+systems+that+ship" alt="Typing SVG" />
 </div>
 
 <br/>
